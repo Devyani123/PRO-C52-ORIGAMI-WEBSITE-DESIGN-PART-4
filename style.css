@@ -1,0 +1,40 @@
+.header{
+    background-color: rgb(61, 61, 61);
+    display: flex;
+    justify-content: space-between;
+    padding:10px;
+}
+
+.grid{
+    margin:25px;
+    border: 2px solid black;
+    border-radius: 50px;
+}
+
+.item{
+    flex-wrap:wrap;
+    flex-direction:row;
+}
+
+a:link{
+    color:white;
+}
+
+a:visited{
+    color:rgb(255, 251, 0);
+}
+
+
+
+.origami{
+    padding:5px;
+    margin:15px;
+    border-radius:20px;
+    background-color: white;
+    width:310px;
+}
+
+body{
+    margin:0px;
+    background-color: rgb(236, 236, 223);
+}
